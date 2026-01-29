@@ -88,9 +88,10 @@ body {
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
-logo,
-a {
+
+.logo a {
   text-decoration: none;
+  color: inherit;
 }
 
 .nav-links {
@@ -196,6 +197,7 @@ a {
   margin-bottom: 2.5rem;
   font-weight: 300;
   line-height: 1.8;
+  text-align: justify;
   animation: fadeInUp 1s ease 0.2s backwards;
 }
 
@@ -655,7 +657,6 @@ a {
 
   .hero-description {
     font-size: 1rem;
-    text-align: justify;
   }
 
   .section-title {
