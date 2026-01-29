@@ -15,14 +15,14 @@ Welcome to my professional portfolio! I am a _Frontend Developer_ who transforms
 
 ## 🌟 Featured Projects
 
-### 1. 🎥 Streaming Hub UI
+## 1. 🖼️ Image Gallery
 
-Modern streaming platform interface with dynamic content loading and smooth animations.
+A visually stunning and responsive image gallery featuring smooth hover effects, lightbox viewing, and seamless grid layout.
 
-![Streaming Hub](Asset/streaming-hub.jpeg)
+![imageGallery](Asset/imageGallery.jpeg)
 
-- 🔗 _Live Link:_ [https://streaming-hub-recreation.vercel.app/]
-- 💻 _GitHub Repo:_ [https://github.com/hmahmd/streaming-hub-recreation]
+- 🔗 _Live Link:_ [https://code-alpha-image-gallery-delta.vercel.app/]
+- 💻 _GitHub Repo:_ [https://github.com/hmahmd/CodeAlpha_ImageGallery]
 
 ---
 
